@@ -1,5 +1,9 @@
 # github_netdisk
 An auto sppider project
-now it can not be used
-一个滥用github当网盘的项目
-里面的东西要就fork吧
+it can auto catch resource from Internet
+like Google spider , baidu spider ,yahoo spider
+now it can not be used at all
+一个github福利项目
+资源为网络收集，不是本人拍摄
+里面的资源要就fork吧
+然而并没有卵用
